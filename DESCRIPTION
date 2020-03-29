@@ -1,0 +1,13 @@
+Package: GWASzf
+Type: Package
+Title: GWASzf
+Version: 0.1.0
+Author: Zhou Tang, Fan Zhang
+Maintainer: Fan Zhang <fan.zhang1@wsu.edu>
+Description: 
+    This is R package to implement GWAS for HW04 of of Crops545 Statistical Genomics
+    This package use GLM model to implement GWAS where user can either use PCs or covariates defined by themselve.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
